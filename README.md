@@ -17,7 +17,7 @@ If the next number is 510 we should probably put it at position 11.
 But then if the following number is 505, the game is over and we lose.
 
 # This Project
-This project demonstrates the inherent unlikelihood of a successful game by allowing one to simulate millions of runs (using an optimal assignment algorithm) of the game in just a few seconds. It is shown that it would take, in expectation, around 18,000 games for 1 success.
+Using C#, we demonstrate the inherent improbability of a successful game by allowing one to simulate millions of runs (using an optimal assignment algorithm) of the game in just a few seconds. It is shown that it would take, in expectation, around 18,000 games for 1 success.
 
 Upon sharing our findings with Nick, who is currently on day 99 of attempting the challenge every day, it was great to see that he was not demoralised by the fact that he most likely won't live long enough to see the day he beats the game.
 
